@@ -44,3 +44,5 @@ I'm junior developer currently trying to learn new things and I'm looking for ne
 
 ![](https://github.com/tyronfonseca/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/tyronfonseca/github-stats/blob/master/generated/languages.svg)
+
+![Stats generated thanks to: GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
