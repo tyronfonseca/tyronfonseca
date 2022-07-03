@@ -1,6 +1,6 @@
 # Hi, I'm Tyron Fonseca
 
-I'm junior developer currently trying to learn new things and I'm looking for new opportunities!
+I like to do Android and Web Apps.
 
 > To be conscious that you are ignorant of the facts is a great step to knowledge ― Benjamin Disraeli
 
