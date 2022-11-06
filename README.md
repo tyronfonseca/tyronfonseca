@@ -8,16 +8,13 @@ I like to make Android and Web Apps.
 <a href="https://www.linkedin.com/in/tyron-fonseca/" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.twitter.com/noryt96/" target="blank">
-<img src="https://img.shields.io/badge/@noryt96-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
 
 ### :seedling: Learning
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-### :chart: Some of my stats in GitHub
+### :chart_with_upwards_trend: Some of my stats in GitHub
 
 ![](https://github.com/tyronfonseca/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/tyronfonseca/github-stats/blob/master/generated/languages.svg)
